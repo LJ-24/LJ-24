@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @LJ-24
-- 👀 I’m interested in Structural Engineering 
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on Civil Engineering projects 
 - 📫 How to reach me liturbur@purdue.edu
 
 <!---
